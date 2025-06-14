@@ -15,10 +15,10 @@ I'm a data engineer and now an Elixir developer 🧙.
 - Frontend: Phoenix LiveView
 - Databases: PostgreSQL, MySQL, SQLite, Azure SQL
 - Cloud: Azure
-- Learning more abou: Elixir, Design System, Erlang, Distributed System, Event Sourcing
+- Learning more about: Elixir, Design System, Erlang, Distributed System, Event Sourcing
 
-### Ask me about
-💬 Anything related to Data Engineering, Data Analytics, Data Visualization, Power BI and related topics.
+### 💬 Ask me about
+Anything related to Data Engineering, Data Analytics, Data Visualization, Power BI and related topics.
 
 
 ### 📫 You can reach me on:
