@@ -7,7 +7,7 @@ I'm a data engineer and now an Elixir developer 🧙.
 
 🌱 I’m currently learning Elixir language.
 
-🌍 Community Contributor – Organizer of [Elixir Carajás Meetup](https://github.com/elixir-carajas), Elixir/Erlang Comuninity of the Carajás region, Pará state, Brazil.
+🌍 Community Contributor – Organizer of [Elixir Carajás Meetup](https://github.com/elixir-carajas), Elixir/Erlang Comunity of the Carajás region, Pará state, Brazil.
 
 ### My tech stack
 
