@@ -7,7 +7,7 @@ I'm a data engineer and now an Elixir developer 🧙.
 
 🌱 I’m currently learning Elixir language.
 
-🌍 Community Contributor – Organizer of [Elixir Carajás Meetup](https://github.com/elixir-carajas), Elixir/Erlang Comunity of the Carajás region, Pará state, Brazil.
+🌍 Community Contributor – Organizer of [Elixir Carajás Meetup](https://github.com/elixir-carajas), Elixir/Erlang Community of the Carajás region, Pará state, Brazil.
 
 ### My tech stack
 
@@ -15,6 +15,7 @@ I'm a data engineer and now an Elixir developer 🧙.
 - Frontend: Phoenix LiveView
 - Databases: PostgreSQL, MySQL, SQLite, Azure SQL
 - Cloud: Azure
+- Data Infra: Microsoft Fabric
 - Learning more about: Elixir, Design System, Erlang, Distributed System, Event Sourcing
 
 ### 💬 Ask me about
